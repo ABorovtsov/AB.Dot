@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>DOT (graph description) file generator for tree and graph.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ABorovtsov/AB.Dot</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ABorovtsov/AB.Dot</PackageProjectUrl>
+    <PackageTags>dot,graph,tree,graphviz</PackageTags>
+    <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <Copyright>Alexander Borovtsov</Copyright>
+    <Authors>Alexander Borovtsov</Authors>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
