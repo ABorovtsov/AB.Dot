@@ -1,4 +1,8 @@
 # AB.Dot
+
+
+![Nuget](https://img.shields.io/nuget/v/AB.Dot)
+
 DOT (graph description) file generator for tree and graph.
 
 ![Example](./img/visualization.png)
