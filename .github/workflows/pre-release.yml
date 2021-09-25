@@ -24,3 +24,5 @@ jobs:
           title: "Development Build"
           files: |
             LICENSE
+            *.dll
+            *.pdb
