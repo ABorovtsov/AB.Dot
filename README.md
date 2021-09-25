@@ -1,7 +1,8 @@
 # AB.Dot
 
 
-![Nuget](https://img.shields.io/nuget/v/AB.Dot)
+<a href="https://www.nuget.org/packages/AB.Dot"><img src="https://img.shields.io/nuget/v/AB.Dot.svg?style=flat&logo=nuget"></a>
+
 
 DOT (graph description) file generator for tree and graph.
 
