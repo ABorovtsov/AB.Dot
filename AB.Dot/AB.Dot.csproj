@@ -11,6 +11,7 @@
     <Copyright>Alexander Borovtsov</Copyright>
     <Authors>Alexander Borovtsov</Authors>
     <Version>0.1.0</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

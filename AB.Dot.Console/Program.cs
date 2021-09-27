@@ -25,7 +25,7 @@ namespace AB.Dot.Console
             var node1 = new Node {Key = 1, Left = node_1, Right = node0};
             var node2 = new Node {Key = 2, Left = node1, Right = node3};
             
-            var nodes = new List<Node> { node4, node3, node_1, node0, node1, node2 }; // the product of any traversal algorithm 
+            var nodes = new List<Node> { node2, node1, node3, node_1, node0, node4}; // the product of any traversal algorithm 
             await new BTreeWriter("./output").WriteDotAsync(nodes, "tree.dot");
 
             System.Console.WriteLine("Done!");
